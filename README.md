@@ -1,3 +1,6 @@
+> [!NOTE]  
+> This project is in maintenance mode, and is unlikely to receive feature updates.
+
 # EchoApi
 This is a test api that can be accessed by sending a <strong>[GET request](https://www.w3schools.com/tags/ref_httpmethods.asp)</strong> to `https://dexeloper.com:5555/echo`.
 
